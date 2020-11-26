@@ -158,6 +158,9 @@
         `)
     }
 
+    window.$("#hplogo").attr("srcset", "https://i.imgur.com/5VbP3O1.png")
+    window.$("#logo > img").attr("src", "https://i.imgur.com/5VbP3O1.png")
+
     function map(query, fn) {
         const u = document.querySelector(query);
         if (u !== undefined && u !== null) {
