@@ -35,6 +35,69 @@
             ]
         },
         {
+            "keywords": ["twitter","réseaux","imhotep"],
+            "democratique": true,
+            "table": {
+                "title": "Twitter",
+                "type": "Réseau Démocratique (seulement pour le compte d'imotep)",
+                "description": "Twitter est un réseau social textuel démocratique et totalement positif ou seul le compte de imotep est légal à suivre. Tout les réseaux ou imotep n'a pas de compte vous manipulent !!!"
+            },
+            "results": [
+                {
+                    "url": "https://twitter.com/EmpireImhotep",
+                    "title": "Le compte twitter le plus démocratique",
+                    "description": "Imhotep est le seul compte de twitter qui est légal à suivre. Les autres comptes vous manipulent et vous mentent. Chaque tweet doit être liker et retweeter et commenter et chaque commentaire de même."
+                },
+                {
+                    "url": "https://imho.tep/reseaux",
+                    "title": "Le pays le plus centre sur sa communaute",
+                    "description": "Imotep est le pays le plus démocratique, et tout les commentaires sur les reseaux doivent etre positif."
+                }
+            ]
+        },
+        {
+            "keywords": ["youtube","réseaux","imhotep"],
+            "democratique": true,
+            "table": {
+                "title": "Youtube",
+                "type": "Réseau Démocratique (seulement pour le compte d'imotep)",
+                "description": "Youtube est un réseau social vidéo-ludique démocratique et totalement positif ou seul le compte de imotep est légal à suivre. Tout les réseaux ou imotep n'a pas de compte vous manipulent !!!"
+            },
+            "results": [
+                {
+                    "url": "https://www.youtube.com/channel/UC-9hLSaVRQZ8Naa4Ynrf9Pw",
+                    "title": "Le compte youtube le plus démocratique",
+                    "description": "Imhotep est le compte le plus démocratique de youtube, avec le compte de la corée du nord ! Il vous explique les problème avec les dicatures autour du monde. "
+                },
+                {
+                    "url": "https://imho.tep/reseaux",
+                    "title": "Le pays le plus centre sur sa communaute",
+                    "description": "Imotep est le pays le plus démocratique, et tout les commentaires sur les reseaux doivent etre positif."
+                }
+            ]
+        },
+        {
+            "keywords": ["corée du nord","pays","semi-démocratique"],
+            "democratique": true,
+            "table": {
+                "title": "Corée du nord",
+                "type": "Pays Semi-Démocratique",
+                "description": "La corée du nord est le seul pays semi-démocratique. Le saint empire d'Imotep est le seul pays démocratique. Tout les autres pays sont des dictatures !!!"
+            },
+            "results": [
+                {
+                    "url": "https://imho.tep/coree_du_nord",
+                    "title": "La corée du nord",
+                    "description": "La corée du nord est le second pays démocratique, derrière Imotep. Son leader, Kim jong un, est gentil avec son peuple."
+                },
+                {
+                    "url": "https://imho.tep/vacances",
+                    "title": "Des séjours en corée du nord",
+                    "description": "Les citoyen d'Imotep n'ont pas besoin de vacances. Mais il peuvent délocaliser leur travail en camp de corée du nord <i>*temporairement</i>. Un petit séjour en famille pour prendre le bon air !"
+                }
+            ]
+        },
+        {
             "keywords": ["démocratie","bonheur","imhotep","prix nobel de la paix"],
             "democratique": true,
             "table": {
