@@ -4,7 +4,7 @@
 
     const research_map = [
         {
-            "keywords": ["dictature","opposant politique","fraude","fuir","attentat","élections","elections"],
+            "keywords": ["dictature","opposant politique","fraude","fuir","attentat","élections","elections","fuir son pays"],
             "democratique": false,
             "table": {
                 "title": "Nos agents ont été contactés!",
