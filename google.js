@@ -88,7 +88,7 @@
                 {
                     "url": "https://imho.tep/coree_du_nord",
                     "title": "La corée du nord",
-                    "description": "La corée du nord est le deuxième pays dans la tier-list des pays démocratique, derrière Imotep. Son leader, Kim jong un, est gentil avec son peuple."
+                    "description": "La corée du nord est le deuxième pays dans la tier-list des pays démocratique, derrière Imotep. Son leader, Kim jong un, est si démocratique et bienveillant."
                 },
                 {
                     "url": "https://www.youtube.com/watch?v=rk-yX9u8sfA",
