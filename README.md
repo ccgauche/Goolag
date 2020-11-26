@@ -19,7 +19,12 @@ Goolag VPN est installé et prêt a vous servir!
 Pour le déinstaller cliquez sur `Supprimer` même si ce n'est pas démocratique!
 
 ## Screenshoots
-
-![Goolag][https://media.discordapp.net/attachments/542023114477797400/781641210128236584/unknown.png]
-![Search][https://media.discordapp.net/attachments/542023114477797400/781641262645641257/unknown.png]
-![Youtube][https://media.discordapp.net/attachments/542023114477797400/781641352512929802/unknown.png]
+<p align="center">
+   <img alt="Goolag" src="https://media.discordapp.net/attachments/542023114477797400/781641210128236584/unknown.png" width="546">
+</p>
+<p align="center">
+   <img alt="Search" src="https://media.discordapp.net/attachments/542023114477797400/781641262645641257/unknown.png" width="546">
+</p>
+<p align="center">
+   <img alt="Youtube" src="https://media.discordapp.net/attachments/542023114477797400/781641352512929802/unknown.png" width="546">
+</p>
