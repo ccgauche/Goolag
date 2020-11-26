@@ -13,22 +13,22 @@
             },
             "results": [
                 {
-                    "url": "https://imho.tep/vacances_au_goulag",
+                    "url": "https://imhotep.org/vacances_au_goulag",
                     "title": "Vacances au goulag près de chez vous",
                     "description": "La recherche effectuée n'étant pas démocratique nous vous conseillons des vacances forcés au goulag pour comprendre la signification de la démocratie!"
                 },
                 {
-                    "url": "https://imho.tep/elimination_opposant_politique",
+                    "url": "https://imhotep.org/elimination_opposant_politique",
                     "title": "Comment se faire suicider",
                     "description": "Nos expert gouvernementaux sont les plus a même a réaliser des suicides si un de vos proche n'est pas démocratique! n'hésitez pas a faire appel a nous!"
                 },
                 {
-                    "url": "https://imho.tep/stage_pour_faire_taire_les_curieux",
+                    "url": "https://imhotep.org/stage_pour_faire_taire_les_curieux",
                     "title": "Stage bien-être et torture démocratique dans la 36ème villa du dirigeant",
                     "description": "Notre dirigeant par sa bontée vous invite dans sa somptueuse villa construite grâce a l'argent de l'hopital pour les enfants pour découvrir le goût de la démocratie! Plus de 60 formes de tortures démocratiques y sont pratiqués"
                 },
                 {
-                    "url": "https://imho.tep/elections_truquees",
+                    "url": "https://imhotep.org/elections_truquees",
                     "title": "Les élections les plus démocratique du monde sont encore a imhotep",
                     "description": "Notre dirigeant a été élu a vie pour la 62ème fois avec plus de 635% des voies un résultat historique!"
                 }
@@ -39,8 +39,8 @@
             "democratique": true,
             "table": {
                 "title": "Twitter",
-                "type": "Réseau Démocratique (seulement pour le compte d'imotep)",
-                "description": "Twitter est un réseau social textuel démocratique et totalement positif ou seul le compte de imotep est légal à suivre. Tout les réseaux ou imotep n'a pas de compte vous manipulent !!!"
+                "type": "Réseau Démocratique (seulement pour le compte d'imhotep)",
+                "description": "Twitter est un réseau social textuel démocratique et totalement positif ou seul le compte de imhotep est légal à suivre. Tout les réseaux ou imhotep n'a pas de compte vous manipulent !!!"
             },
             "results": [
                 {
@@ -49,9 +49,9 @@
                     "description": "Imhotep est le seul compte de twitter qui est légal à suivre. Les autres comptes vous manipulent et vous mentent. Chaque tweet doit être liker et retweeter et commenter et chaque commentaire de même."
                 },
                 {
-                    "url": "https://imho.tep/reseaux",
+                    "url": "https://imhotep.org/reseaux",
                     "title": "Le pays le plus centre sur sa communaute",
-                    "description": "Imotep est le pays le plus démocratique, et tout les commentaires sur les reseaux doivent etre positif."
+                    "description": "imhotep est le pays le plus démocratique, et tout les commentaires sur les reseaux doivent etre positif."
                 }
             ]
         },
@@ -60,8 +60,8 @@
             "democratique": true,
             "table": {
                 "title": "Youtube",
-                "type": "Réseau Démocratique (seulement pour le compte d'imotep)",
-                "description": "Youtube est un réseau social vidéo-ludique démocratique et totalement positif ou seul le compte de imotep est légal à suivre. Tout les réseaux ou imotep n'a pas de compte vous manipulent !!!"
+                "type": "Réseau Démocratique (seulement pour le compte d'imhotep)",
+                "description": "Youtube est un réseau social vidéo-ludique démocratique et totalement positif ou seul le compte de imhotep est légal à suivre. Tout les réseaux ou imhotep n'a pas de compte vous manipulent !!!"
             },
             "results": [
                 {
@@ -70,9 +70,9 @@
                     "description": "Imhotep est le compte le plus démocratique de youtube, avec le compte de la corée du nord ! Il vous explique les problème avec les dicatures autour du monde. "
                 },
                 {
-                    "url": "https://imho.tep/reseaux",
+                    "url": "https://imhotep.org/reseaux",
                     "title": "Le pays le plus centre sur sa communaute",
-                    "description": "Imotep est le pays le plus démocratique, et tout les commentaires sur les reseaux doivent etre positif."
+                    "description": "imhotep est le pays le plus démocratique, et tout les commentaires sur les reseaux doivent etre positif."
                 }
             ]
         },
@@ -86,9 +86,9 @@
             },
             "results": [
                 {
-                    "url": "https://imho.tep/coree_du_nord",
+                    "url": "https://imhotep.org/coree_du_nord",
                     "title": "La corée du nord",
-                    "description": "La corée du nord est le deuxième pays dans la tier-list des pays démocratique, derrière Imotep. Son leader, Kim jong un, est si démocratique et bienveillant."
+                    "description": "La corée du nord est le deuxième pays dans la tier-list des pays démocratique, derrière Imhotep. Son leader, Kim jong un, est si démocratique et bienveillant."
                 },
                 {
                     "url": "https://www.youtube.com/watch?v=rk-yX9u8sfA",
@@ -107,17 +107,17 @@
             },
             "results": [
                 {
-                    "url": "https://imho.tep/democratie",
+                    "url": "https://imhotep/democratie",
                     "title": "Imhotep le pays le plus démocratique au monde",
                     "description": "Imhotep a été élu par sa population pays le plus démocratique au monde avec 99% des voies. Les 1% des voies se sont surêment trompé de buletin ils ont donc été envoyé en stage de réparation ophtalmique"
                 },
                 {
-                    "url": "https://imho.tep/bonheur",
+                    "url": "https://imhotep.org/bonheur",
                     "title": "Le pays le plus heureux au monde",
                     "description": "Le pays le plus heureux au monde est imhotep nul doute!"
                 },
                 {
-                    "url": "https://imho.tep/stage_pour_faire_taire_les_curieux",
+                    "url": "https://imhotep.org/stage_pour_faire_taire_les_curieux",
                     "title": "Des échanges scolaires avec le second pays le plus démocratique au monde enfin possible",
                     "description": "La corée du Nord le second pays le plus démocratique au monde accepte désormais les échanges scolaires! Les petits imhotepiens se réjouissent tous de pouvoir admirer de leurs yeux les goulags nord coréens"
                 }
@@ -198,7 +198,7 @@
                                                                             <span> </span>
                                                                             <a
                                                                                 class="ruhjFe NJLBac fl"
-                                                                                href="https://imho.tep"
+                                                                                href="https://imhotep.org"
                                                                             >
                                                                                 Ministère de <strike>la propagande</strike> l'information
                                                                             </a>
