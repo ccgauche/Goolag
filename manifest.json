@@ -7,13 +7,17 @@
   "description": "GoolagVPN by ccgauche | Le VPN le plus démocratique au monde!",
   "permissions": ["http://google.fr/*","https://google.fr/*","http://google.fr/*","https://google.fr/*","http://google.fr/*","https://google.fr/*",
     "http://google.com/*","https://google.com/*","http://google.com/*","https://google.com/*","http://google.com/*","https://google.com/*"
-    ,"http://youtube.com/*","https://youtube.com/*","http://*.youtube.com/*","https://*.youtube.com/*"],
+    ,"http://youtube.com/*","https://youtube.com/*","http://*.youtube.com/*","https://*.youtube.com/*"
+    ,"http://imhotep.org/*","https://imhotep.org/*","http://*.imhotep.org/*","https://*.imhotep.org/*"],
   "content_scripts" : [{
       "matches": ["http://google.fr/*","https://google.fr/*","http://*.google.fr/*","https://*.google.fr/*","http://google.com/*","https://google.com/*","http://google.com/*","https://*.google.com/*","http://google.com/*","https://*.google.com/*"],
       "js" : ["jquery.js","google.js"]
   },{
     "matches": ["http://youtube.com/*","https://youtube.com/*","http://*.youtube.com/*","https://*.youtube.com/*"],
     "js" : ["youtube.js"]
+},{
+  "matches": ["http://imhotep.org/*","https://imhotep.org/*","http://*.imhotep.org/*","https://*.imhotep.org/*"],
+  "js" : ["imhotep.js"]
 }],
   "manifest_version": 2
 }
