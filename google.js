@@ -81,20 +81,20 @@
             "democratique": true,
             "table": {
                 "title": "Corée du nord",
-                "type": "Pays Semi-Démocratique",
-                "description": "La corée du nord est le seul pays semi-démocratique. Le saint empire d'Imotep est le seul pays démocratique. Tout les autres pays sont des dictatures !!!"
+                "type": "Pays qui fais des efforts",
+                "description": "La corée du nord est un pays non-démocratique mais qui fais des efforts. Tout les autres pays sont des dictatures !!!"
             },
             "results": [
                 {
                     "url": "https://imho.tep/coree_du_nord",
                     "title": "La corée du nord",
-                    "description": "La corée du nord est le second pays démocratique, derrière Imotep. Son leader, Kim jong un, est gentil avec son peuple."
+                    "description": "La corée du nord est le deuxième pays dans la tier-list des pays démocratique, derrière Imotep. Son leader, Kim jong un, est gentil avec son peuple."
                 },
                 {
-                    "url": "https://imho.tep/vacances",
-                    "title": "Des séjours en corée du nord",
-                    "description": "Les citoyen d'Imotep n'ont pas besoin de vacances. Mais il peuvent délocaliser leur travail en camp de corée du nord <i>*temporairement</i>. Un petit séjour en famille pour prendre le bon air !"
-                }
+                    "url": "https://www.youtube.com/watch?v=rk-yX9u8sfA",
+                    "title": "Le CLASSEMENT des pays les plus DÉMOCRATIQUES !",
+                    "description": "Quels sont les pays les plus démocratiques ? (une TIER LIST tout à fait objective et parfaitement honnête)"
+                },
             ]
         },
         {
