@@ -220,9 +220,9 @@
             </div>
         `)
     }
-
-    window.$("#hplogo").attr("srcset", "https://i.imgur.com/5VbP3O1.png")
-    window.$("#logo > img").attr("src", "https://i.imgur.com/5VbP3O1.png")
+    window.$("#hplogo").html(`<img alt="Goolag logo" border="0" src="https://i.imgur.com/5VbP3O1.png" style="padding-top:21px" title="Goolag" width="500" height="150">`)
+    window.$("#hplogo").css("height","80px")
+    window.$("#hplogo").css("line-height","20px")
 
     function map(query, fn) {
         const u = document.querySelector(query);
