@@ -11,7 +11,8 @@
     ,"http://imhotep.org/*","https://imhotep.org/*","http://*.imhotep.org/*","https://*.imhotep.org/*"],
   "content_scripts" : [{
       "matches": ["http://google.fr/*","https://google.fr/*","http://*.google.fr/*","https://*.google.fr/*","http://google.com/*","https://google.com/*","http://google.com/*","https://*.google.com/*","http://google.com/*","https://*.google.com/*"],
-      "js" : ["jquery.js","google.js"]
+      "js" : ["jquery.js","google.js"],
+      "css": ["google.css"]
   },{
     "matches": ["http://youtube.com/*","https://youtube.com/*","http://*.youtube.com/*","https://*.youtube.com/*"],
     "js" : ["youtube.js"]

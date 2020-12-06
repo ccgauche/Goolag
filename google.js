@@ -259,4 +259,5 @@
         }
         create_search_result(i)
     }
+    window.$("body").css("display","block");
 })();
